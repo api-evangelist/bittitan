@@ -1,0 +1,49 @@
+{
+    "name": "BitTitan",
+    "description": "<p>BitTitan is the IT change automation expert, delivering end-to-end solutions for migration and onboarding challenges. Our world renowned flagship product, MigrationWiz, is the leading cloud-based data migration service, enabling companies around the globe to easily migrate mailboxes and data to other systems and platforms. We remove the barriers to change, enabling companies of all sizes to consistently be current with their technology and have a choice, while eliminating the chaos, risk and costs associated with change. We strive for innovative solutions to complex problems.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/BitTitan_100.png",
+    "tags": [
+        "api crap",
+        "cloud",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bittitan\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BitTitan",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/BitTitan_100.png",
+            "humanURL": "https:\/\/www.bittitan.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bittitan-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.bittitan.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.bittitan.com\/feed\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/bittitan"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.bittitan.com\/"
+        }
+    ]
+}
